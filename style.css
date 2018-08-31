@@ -9,25 +9,22 @@ article {
     
 }
 .description {
-   margin: 0 auto;
    width: 50%;
-   height: 200px;
+   margin: 0 auto;
    background: #f4976c; 
    border-radius: 15px;
    font-family: 'Indie Flower', cursive;
    padding: 25px;
 }
 .categories {
-    width: 100%;
-    height: 500px;
     background: #303c6c;
     padding: 50px;
     margin: 50px;
 }
 table {
     background: #b4dfe5;
-    width: 100%;
     margin: 0 auto;
+    width: 100%;
 }
 th {
     border-bottom: 5px #303c6c solid;
