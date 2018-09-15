@@ -1,0 +1,48 @@
+html {
+    background: #fbe8a6;
+    text-align: center;
+}
+h1 {
+  font-family: 'Permanent Marker', cursive;
+}
+article {
+    margin: 50px 100px;
+}
+.show {
+    background: #f4976c;
+    width: 50%;
+    height: 100px;
+    display: inline-block;
+    font-size: 2rem;
+}
+.show h1 {
+    margin: 0;
+    padding: 10px;
+}
+.basic {
+    background: #303c6c;
+    width: 35%;
+    height: auto;
+    float: right;
+    color: #d2fdff;
+}
+.inDepth {
+    background: #b4dfe5;
+    width: 50%;
+    height: 250px;
+    display: inline-block;
+    margin-top: 50px;
+}
+footer {
+  
+}
+img {
+    margin-top: 15px;
+}
+dd {
+    padding: 10px;
+    text-align: left;
+}
+a:any-link {
+    text-decoration: none;
+}
